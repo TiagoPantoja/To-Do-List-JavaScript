@@ -1,2 +1,2 @@
 # to-do-list
-To-Do List feita em Javascript puro
+To-Do List feita em JavaScript puro
